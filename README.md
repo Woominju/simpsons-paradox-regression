@@ -38,7 +38,7 @@ $$
 
 Projected onto the (X, Y) plane, the data shows a clear positive trend, even though every slice with fixed `W` slopes downward.
 
-## Takeaway
+## What I learned
 
 The same data can support opposite conclusions depending on which variables are held fixed. Before trusting a coefficient (or a metric), it is worth checking what was conditioned on and how the data was aggregated.
 
